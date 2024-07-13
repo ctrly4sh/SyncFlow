@@ -66,5 +66,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 This project is licensed under the [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
 
-📧 Contact
-For questions or support, please contact [mailto](y4sh.dev@example.com)
+📧 Contact [y4sh.dev](y4sh.dev@gmail.com)
