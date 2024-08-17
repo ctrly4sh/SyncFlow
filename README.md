@@ -1,12 +1,12 @@
 
 
- Sync Canvas 🎨
+## SyncFlow 🎨
 
- synCanvas  is a real-time collaborative web application that allows two users to draw and chat on a shared canvas simultaneously. It features live updates, seamless interaction, and easy sharing of canvas snapshots via cloud storage.
+SyncFlow is an open-source, one-to-one real-time collaborative web application designed for programmers and developers. It allows users to create and discuss Low-Level Designs (LLD), algorithms, and flowcharts on a shared canvas with real-time updates and seamless interaction. It also provides cloud-based design snap sharing.
 
    ✨ Features
 
--  Real-Time Collaboration:  Draw and chat with another user in real-time.
+-  Real-Time Collaboration:  Design and chat with another developer in real-time.
 -  Interactive Chat:  Communicate seamlessly within the app.
 -  Canvas Screenshot Capture:  Capture and upload canvas snapshots to Cloudinary.
 -  Responsive Design:  Designed with MUI and Tailwind CSS for a responsive UI.
