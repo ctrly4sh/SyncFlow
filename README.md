@@ -2,7 +2,7 @@
 
 ## SyncFlow 🎨
 
-SyncFlow is an open-source, one-to-one real-time collaborative web application designed for programmers and developers. It allows users to create and discuss Low-Level Designs (LLD), algorithms, and flowcharts on a shared canvas with real-time updates and seamless interaction. It also provides cloud-based design snap sharing.
+SyncFlow is an one-to-one real-time collaborative web application designed for programmers and developers. It allows users to create and discuss Low-Level Designs (LLD), algorithms, and flowcharts on a shared canvas with real-time updates and seamless interaction. It also provides cloud-based design snap sharing.
 
    ✨ Features
 
